@@ -1,7 +1,7 @@
 # 09.09 Практика 1 Шатов Д.Я. ЭФМО-02-24
 ## Интернет-магазин компьютерной техники
 ### ERD
-![EntityRelationshipDiagram1](https://github.com/user-attachments/assets/f934c201-4612-4407-9b02-d75d29407a09)
+![EntityRelationshipDiagram1](https://github.com/user-attachments/assets/d8bb9676-9feb-4b49-b02d-6c6241157820)
 ### Описание сущностей
 1) Customer - покупатель и его информация
 2) Order - заказ и информация о нем
